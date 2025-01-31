@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[9]:
 
 
 # Import necessary libraries
@@ -36,9 +33,6 @@ predictions = model.predict(X_test_tfidf)
 # Evaluation
 print(classification_report(y_test, predictions))
 print(confusion_matrix(y_test, predictions))
-
-
-# In[2]:
 
 
 import pandas as pd

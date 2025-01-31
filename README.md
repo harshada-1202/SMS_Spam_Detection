@@ -40,12 +40,3 @@ This project aims to develop a machine learning model that can effectively class
 ## Dataset
 
 The dataset used for this project is the [SMS Spam Collection Dataset], which contains a set of SMS messages labeled as "spam" or "ham."
-
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sms-spam-detection.git
-   cd sms-spam-detection
